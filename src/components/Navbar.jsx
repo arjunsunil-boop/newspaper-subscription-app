@@ -7,7 +7,7 @@ const Navbar = () => {
 <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="/">
-                        <img src="https://cdn-icons-png.flaticon.com/512/7063/7063304.png" alt="Logo" width="40" height="" class="navbar-logo" />
+                        <img src="https://cdn-icons-png.flaticon.com/512/7063/7063304.png" alt="Logo" width="40"  class="navbar-logo" />
                         NewsLey
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

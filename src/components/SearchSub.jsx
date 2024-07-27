@@ -1,10 +1,13 @@
 import React from 'react'
+import Navbar from './Navbar'
 
 const SearchSub = () => {
   return (
     <div>
+        <Navbar/>
 
 <div className="container">
+    <br /><br />
             <div className="row">
                 <div className="col col-12 col-sm-12 colmd-12 col-lg-12 col-xl-12 col-xxl-12">
 
